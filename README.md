@@ -204,5 +204,4 @@ I also added 'Skip to content' link, it lets keyboard users and screen readers j
 Create unit and integration tests with Jest/React-Testing-Library.
 
 ## Author
-
-- Frontend Mentor - [@mbart13](https://www.frontendmentor.io/profile/mbart13)
+apurba patra
